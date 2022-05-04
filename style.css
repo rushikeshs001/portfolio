@@ -1,0 +1,190 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: white;
+    color: #40514E;
+
+}
+
+h1 {
+    width: 50%;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 3.8em;
+    line-height: 2;
+    
+}
+p {
+    position: relative;
+    font-size: 1.5em;
+}
+.tcontainer{
+    background-color: #afecf5;
+    padding: 40px;
+    height: 710px;
+   
+}
+.mcontainer{
+    width: 100%;
+    margin-top: 80px;
+  
+    
+}
+.bottom-container{
+    width: 100%;
+    margin: 14px 0 4px 0;
+    background-color: rgb(167, 167, 167);
+    
+}
+.photo{
+    width: 16%;
+    height: 184px;
+    margin: 0 0 30px 0;
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+.top-cloud{
+    position: relative;
+    left: 250px;
+}
+
+
+.skill-row{
+ 
+    width: 50%;
+    margin: 100px auto 100px auto;
+    height: 180px;
+}
+
+
+.skill{
+    width: 23%;
+    height: 147px;
+    float: left;
+    margin: 0 70px 0 40px;
+}
+
+.pro{
+    width: 4%;
+    height: 42px;
+    position: relative;
+    top: 13px;
+}
+.Cricket{
+    width: 35%;
+    height: 153px;
+    float: right;
+
+}
+
+.btn{
+    display: inline-block;
+    background-color: #fd5d5d;
+    padding: 16px 48px;
+    text-decoration: none;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 5px;
+
+}
+.btn:active{
+    transform: translate(4px);
+    box-shadow: 0 4px 0 #cf2b2b;
+}
+.head{
+    position: relative;
+    
+    color: #EB5353;
+    text-decoration: underline;
+}
+.para{
+    text-align: left;
+    font-size: 1.2rem;
+    
+}
+.skill1{
+    text-align: left;
+    position: relative;
+   
+}
+.skill2{
+    text-align: left;
+    position: relative;
+    left: 37px;
+}
+.h{
+    color: #0AA1DD;
+}
+.get{
+    color: #0AA1DD;
+}
+.hr{
+    border-width: 4px;
+    width: 10%;
+    border: dotted #C4DDFF;
+    border-bottom: none;
+    margin: 80px auto;
+}
+.contact-me{
+    margin-top: 35px;
+}
+.timage{
+    position: relative;
+    top: 40px;
+    height: 420px;
+}
+.top-cloud{
+    width: 15%;
+}
+.bottom-cloud{
+    width: 15%;
+}
+.bottom-container{
+    margin-top: 50px;
+    height: 150px;
+    padding: 50px 0 20px;
+}
+.btn{
+    margin: 30px auto 35px auto;
+}
+.Link{
+    height: 24px;
+    width: 3%;
+    position: relative;
+    top: 5px;
+    margin: auto;
+}
+.a{
+    text-decoration: none;
+    color: rgb(30, 89, 193);
+}
+.a:hover{
+    color: white;
+}
+.name{
+    font-size: 1.2rem;
+}
+.para1{
+    font-size: 1.2rem;
+}
+.btn:hover{
+    background-color: #0AA1DD;
+}
+.love1{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 10px;
+   
+}
+.love{
+    font-size: 1rem;
+    position: relative;
+    left: 15px;
+    
+    margin: auto;
+}
